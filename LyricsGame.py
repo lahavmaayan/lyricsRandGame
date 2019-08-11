@@ -3,8 +3,7 @@ import random
 import webbrowser
 from googleapiclient.discovery import build
 
-from settings import GENIUS_KEY
-from settings import YOUTUBE_API_KEY
+from settings import GENIUS_KEY, YOUTUBE_API_KEY
 
 
 class LyricsRandGame:
